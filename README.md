@@ -90,7 +90,7 @@ This application is deployed on Render. The deployment is automated via GitHub.
 
 5.  **Deploy:** Click **Create Web Service**. Render will automatically build and deploy your application. Once it's live, you can access it at the URL provided on your dashboard.
 
-The live URL is: `<Your-Render-App-URL>`
+The live URL is: https://segun-healthcare-app.onrender.com
 
 ---
 ## File Structure
